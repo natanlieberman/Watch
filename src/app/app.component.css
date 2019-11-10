@@ -1,0 +1,21 @@
+p {
+  font-family: Lato;
+}
+.clock{
+ color: red;
+}
+div{
+  display: flex;
+
+}
+#top{
+  justify-content: space-around;
+  margin-bottom: 50px
+}
+#middle{
+  justify-content: center;
+  
+}
+#bottom{
+  justify-content: space-between;
+}
